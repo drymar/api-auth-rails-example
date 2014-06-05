@@ -1,4 +1,4 @@
 Example API Auth in Rails
 =========================
 
-This is still in progress.  Not ready.  Check back soon.
+From the blog post [http://www.heardmont.com/authentication-strategy-for-apis-in-rails/](http://www.heardmont.com/authentication-strategy-for-apis-in-rails/)
